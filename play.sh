@@ -1,1 +1,0 @@
-omxplayer /record2.wav
